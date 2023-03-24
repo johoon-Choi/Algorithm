@@ -30,6 +30,9 @@
     <ClCompile Include="16975 수열과 쿼리 21.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5419 북서풍.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="memo.txt" />
